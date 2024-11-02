@@ -17,6 +17,10 @@
     "icon",
     "svg"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tanokurukushi/vscode-octicons-search"
+  },
   "activationEvents": [],
   "contributes": {
     "commands": [
