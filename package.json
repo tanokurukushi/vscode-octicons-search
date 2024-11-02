@@ -21,7 +21,7 @@
   "contributes": {
     "commands": [
       {
-        "command": "octicons-search.search",
+        "command": "octiconsSearch.search",
         "title": "Search Octicons",
         "category": "Octicons",
         "icon": "$(search)"

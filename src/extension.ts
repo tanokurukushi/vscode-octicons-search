@@ -3,7 +3,7 @@ import octicons from '@primer/octicons';
 
 export function activate(context: ExtensionContext) {
   context.subscriptions.push(
-    vscode.commands.registerCommand('octicons-search.search', searchOcticons)
+    vscode.commands.registerCommand('octiconsSearch.search', searchOcticons)
   );
 }
 
