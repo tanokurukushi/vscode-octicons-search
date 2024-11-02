@@ -2,6 +2,8 @@
   "name": "vscode-octicons-search",
   "displayName": "Octicons Search",
   "description": "Easily search for GitHub Octicons and copy their SVG code directly to your clipboard.",
+  "publisher": "tanokurukushi",
+  "author": "TanokuRukushi",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.94.0"
