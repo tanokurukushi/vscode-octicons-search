@@ -5,6 +5,7 @@ Octicons Search makes it easy to find and use GitHub's Octicons in your projects
 ## Features
 
 - Search by name or keywords to find the Octicon you need.
+- Select the height for the SVG.
 - Copy SVG code to the clipboard.
 
 ## Usage
@@ -12,7 +13,9 @@ Octicons Search makes it easy to find and use GitHub's Octicons in your projects
 1. Open the command palette.
 2. Type `Octicons: Search Octicons` and select the command.
 3. Enter the name or keywords of the Octicon.
-4. Click on the desired Octicon to copy its SVG code to your clipboard.
+4. Select the desired Octicon from the list.
+5. Select the height for the SVG.
+6. The SVG code will be copied to your clipboard.
 
 ## Commands
 
