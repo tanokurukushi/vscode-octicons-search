@@ -1,4 +1,4 @@
-# Octicons Search
+# Octicons Search - Extension for Visual Studio Code
 
 Octicons Search makes it easy to find and use GitHub's Octicons in your projects. Quickly search for an Octicon by name or keywords, and copy its SVG code directly to your clipboard.
 
