@@ -19,6 +19,7 @@
     "icon",
     "svg"
   ],
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/tanokurukushi/vscode-octicons-search"
